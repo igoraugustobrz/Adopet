@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Descrição em andamento.
+Este projeto foi desenvolvido com o intuito de utilizar as boas práticas do desenvolvimento Java.
 
 ## Status do projeto
 
